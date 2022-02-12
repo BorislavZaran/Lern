@@ -3,7 +3,7 @@ import rerenderEntireTree from './components/redux/render.js';
 import state from './components/redux/state';
 
 
-rerenderEntireTree (state);
+rerenderEntireTree(state);
 
 
 // If you want to start measuring performance in your app, pass a function

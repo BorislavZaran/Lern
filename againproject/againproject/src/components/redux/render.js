@@ -1,5 +1,5 @@
 import App from '../App.js';
-import { default as React, default as ReactDOM } from "react";
+import ReactDOM from 'react-dom';
 import { BrowserRouter } from 'react-router-dom';
 import { addPost } from '../redux/state.js';
 
